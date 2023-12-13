@@ -47,3 +47,5 @@ for i,v in count_map.items():
         max = v
         res = i
 print(f"Maxxxx:{res}")
+print(f"Maxxxx:{res}")
+print(f"Maxxxx:{res}")
