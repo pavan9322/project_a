@@ -46,4 +46,4 @@ for i,v in count_map.items():
     if max < v:
         max = v
         res = i
-print(f"Maxxxxx:{res}")
+print(f"Maximum:{res}")
